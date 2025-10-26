@@ -1,0 +1,22 @@
+[
+  { "name": "Men", "description": "Clothing and accessories for men" },
+  { "name": "Women", "description": "Clothing and accessories for women" },
+  { "name": "Kids", "description": "Clothing, toys, and accessories for kids" },
+  {
+    "name": "Electronics",
+    "description": "All types of electronic gadgets and devices"
+  },
+  {
+    "name": "Laptops",
+    "description": "Latest models of laptops and notebooks"
+  },
+  {
+    "name": "Phones",
+    "description": "All types of mobile phones and accessories"
+  },
+  {
+    "name": "Home",
+    "description": "Furniture, home decor, and kitchen essentials"
+  },
+  { "name": "Books", "description": "Novels, textbooks, and educational books" }
+]

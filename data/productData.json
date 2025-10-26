@@ -1,0 +1,642 @@
+[
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e1",
+    "name": "Men's Classic Denim Jacket",
+    "description": "Stylish blue denim jacket perfect for casual outings. A timeless wardrobe essential.",
+    "price": 2999,
+    "images": ["https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e2",
+    "name": "Men's Black Leather Biker Jacket",
+    "description": "Premium quality genuine leather jacket with sleek motorcycle design. High durability.",
+    "price": 5499,
+    "images": ["https://images.pexels.com/photos/1124468/pexels-photo-1124468.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e3",
+    "name": "Men's Organic Cotton T-Shirt (White)",
+    "description": "Soft and breathable organic cotton t-shirt suitable for everyday comfort.",
+    "price": 999,
+    "images": ["https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e4",
+    "name": "Men's Slim Fit Stretch Jeans",
+    "description": "Comfortable slim fit stretchable denim jeans for modern daily style.",
+    "price": 1799,
+    "images": ["https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e5",
+    "name": "Men's Performance Sports Hoodie",
+    "description": "Warm, moisture-wicking hoodie for intense gym sessions and casual athleisure.",
+    "price": 2499,
+    "images": ["https://images.pexels.com/photos/1192335/pexels-photo-1192335.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e6",
+    "name": "Men's Linen Formal Shirt (Navy)",
+    "description": "Elegant linen-blend shirt perfect for office wear or formal events. Crisp and breathable.",
+    "price": 1599,
+    "images": ["https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e7",
+    "name": "Men's Jogger Track Pants",
+    "description": "Premium cotton jogger track pants for maximum sports and home comfort.",
+    "price": 1299,
+    "images": ["https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e8",
+    "name": "Men's Slim Fit Wool Blazer",
+    "description": "Smart casual blazer with a tailored fit and luxurious wool blend fabric.",
+    "price": 4999,
+    "images": ["https://images.pexels.com/photos/1148957/pexels-photo-1148957.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Men",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3e9",
+    "name": "Women's Floral Maxi Dress",
+    "description": "Lightweight chiffon dress ideal for summer outings and beach holidays. Flowy design.",
+    "price": 1799,
+    "images": ["https://images.pexels.com/photos/972995/pexels-photo-972995.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3ea",
+    "name": "Women's Genuine Leather Handbag",
+    "description": "Elegant leather tote handbag with spacious compartments and premium finish.",
+    "price": 2999,
+    "images": ["https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3eb",
+    "name": "Women's Ribbed Knit Casual Top",
+    "description": "Soft cotton ribbed knit top for daily comfort and effortless style.",
+    "price": 899,
+    "images": ["https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3ec",
+    "name": "Women's Brown Suede Biker Jacket",
+    "description": "Trendy brown suede jacket for cool weather. Perfect for a chic look.",
+    "price": 4599,
+    "images": ["https://images.pexels.com/photos/1449667/pexels-photo-1449667.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3ed",
+    "name": "Women's Banarasi Silk Saree",
+    "description": "Traditional Banarasi silk saree with intricate zari work and rich colour.",
+    "price": 3999,
+    "images": ["https://images.pexels.com/photos/3621953/pexels-photo-3621953.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3ee",
+    "name": "Women's Stiletto High Heels (Red)",
+    "description": "Stylish patent leather high heels perfect for parties and events. Bold statement piece.",
+    "price": 1999,
+    "images": ["https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3ef",
+    "name": "Women's Cateye Polarized Sunglasses",
+    "description": "UV-protected sunglasses with a fashionable cateye design. Polarized lenses.",
+    "price": 1499,
+    "images": ["https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f0",
+    "name": "Women's Minimalist Analog Watch",
+    "description": "Elegant stainless steel analog watch with a minimalist face and modern look.",
+    "price": 2599,
+    "images": ["https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Women",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b411",
+    "name": "Kids Denim Dungaree Set",
+    "description": "Cute and comfortable denim dungaree perfect for everyday play and adventures.",
+    "price": 1299,
+    "images": ["https://images.pexels.com/photos/1416736/pexels-photo-1416736.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b412",
+    "name": "Kids Cartoon Printed T-Shirt Pack",
+    "description": "Pack of 3 colorful cotton t-shirts with fun cartoon prints. Soft and breathable.",
+    "price": 899,
+    "images": ["https://images.pexels.com/photos/8088495/pexels-photo-8088495.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b413",
+    "name": "Kids Winter Puffer Jacket",
+    "description": "Warm and cozy hooded puffer jacket to keep your little one snug in winter.",
+    "price": 1999,
+    "images": ["https://images.pexels.com/photos/1620760/pexels-photo-1620760.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b414",
+    "name": "Kids Sports Tracksuit Set",
+    "description": "Comfortable and stylish athletic tracksuit for active kids. Perfect for sports.",
+    "price": 1499,
+    "images": ["https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b415",
+    "name": "Kids Party Wear Frock Dress",
+    "description": "Beautiful and elegant party dress for girls with floral embroidery. Perfect for occasions.",
+    "price": 1799,
+    "images": ["https://images.pexels.com/photos/1620760/pexels-photo-1620760.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b416",
+    "name": "Kids School Backpack (Cartoon)",
+    "description": "Lightweight and durable school backpack with fun cartoon designs. Multiple compartments.",
+    "price": 799,
+    "images": ["https://images.pexels.com/photos/6231948/pexels-photo-6231948.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b417",
+    "name": "Kids Sneakers (Light-Up)",
+    "description": "Cool light-up sneakers that flash with every step. Comfortable and trendy.",
+    "price": 1299,
+    "images": ["https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b418",
+    "name": "Kids Raincoat with Hood",
+    "description": "Waterproof raincoat to keep kids dry during monsoon. Available in bright colors.",
+    "price": 699,
+    "images": ["https://images.pexels.com/photos/4474052/pexels-photo-4474052.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Kids",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f1",
+    "name": "MacBook Air M3 (13-inch)",
+    "description": "Apple's ultra-thin laptop powered by the efficient M3 chip. Ideal for portability.",
+    "price": 135000,
+    "images": ["https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f2",
+    "name": "Dell XPS 13 Plus (OLED)",
+    "description": "Sleek ultrabook with a stunning edge-to-edge OLED display and powerful performance.",
+    "price": 120000,
+    "images": ["https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f3",
+    "name": "HP Spectre x360 (14-inch)",
+    "description": "Premium 2-in-1 convertible touchscreen laptop for creative professionals. Pen support.",
+    "price": 110000,
+    "images": ["https://images.pexels.com/photos/812264/pexels-photo-812264.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f4",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+    "description": "Durable, featherlight business laptop with top-tier security and performance.",
+    "price": 99000,
+    "images": ["https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f5",
+    "name": "Asus ZenBook 14 OLED",
+    "description": "Compact laptop featuring a vibrant OLED display and exceptional battery life.",
+    "price": 87000,
+    "images": ["https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f6",
+    "name": "Acer Swift 5 (Touchscreen)",
+    "description": "Lightweight and powerful laptop for smooth multitasking and portability.",
+    "price": 78000,
+    "images": ["https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f7",
+    "name": "Microsoft Surface Laptop 5 (13.5-inch)",
+    "description": "Signature premium design laptop with a high-resolution PixelSense touch display.",
+    "price": 105000,
+    "images": ["https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f8",
+    "name": "Razer Blade 15 (Gaming)",
+    "description": "Extreme performance gaming laptop with a fast refresh rate and customizable RGB keyboard.",
+    "price": 165000,
+    "images": ["https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Laptops",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3f9",
+    "name": "Sony WH-1000XM5 ANC Headphones",
+    "description": "Industry-leading noise-cancelling wireless headphones with superior audio quality.",
+    "price": 29999,
+    "images": ["https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3fa",
+    "name": "iPhone 15 Pro (128GB)",
+    "description": "Apple's flagship phone with a titanium design, A17 Bionic chip, and Pro camera system.",
+    "price": 125000,
+    "images": ["https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3fb",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Flagship Android phone with a powerful camera, S Pen integration, and durable build.",
+    "price": 95000,
+    "images": ["https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3fc",
+    "name": "Apple Watch Series 9 GPS",
+    "description": "Advanced smartwatch with comprehensive health, fitness tracking, and Always-On display.",
+    "price": 45999,
+    "images": ["https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3fd",
+    "name": "JBL Flip 6 Portable Bluetooth Speaker",
+    "description": "Portable, waterproof wireless speaker with powerful sound and deep bass.",
+    "price": 7999,
+    "images": ["https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3fe",
+    "name": "Canon EOS 90D DSLR Camera",
+    "description": "Professional-grade DSLR camera with high resolution and fast autofocus for photography enthusiasts.",
+    "price": 115000,
+    "images": ["https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b3ff",
+    "name": "Samsung 55-inch Crystal 4K Smart TV",
+    "description": "4K Ultra HD Smart TV with Crystal Display, HDR support, and built-in streaming apps.",
+    "price": 65000,
+    "images": ["https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b400",
+    "name": "Amazon Echo Dot (5th Gen)",
+    "description": "Compact smart speaker with Alexa voice assistant and improved audio quality.",
+    "price": 4999,
+    "images": ["https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Electronics",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b419",
+    "name": "iPhone 14 (128GB) - Midnight",
+    "description": "Sleek iPhone 14 with advanced camera system and all-day battery life. Fast A15 chip.",
+    "price": 79999,
+    "images": ["https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b420",
+    "name": "OnePlus 12 5G",
+    "description": "Flagship killer with Snapdragon processor, AMOLED display, and super-fast charging.",
+    "price": 64999,
+    "images": ["https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b421",
+    "name": "Google Pixel 8 Pro",
+    "description": "Pure Android experience with Google's AI-powered camera and clean software.",
+    "price": 89999,
+    "images": ["https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b422",
+    "name": "Xiaomi 13T Pro 5G",
+    "description": "Feature-packed phone with Leica optics, powerful processor, and premium build.",
+    "price": 49999,
+    "images": ["https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b423",
+    "name": "Realme GT 3 (5G)",
+    "description": "Budget flagship with 240W fast charging and gaming-focused performance.",
+    "price": 34999,
+    "images": ["https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b424",
+    "name": "Vivo X100 Pro",
+    "description": "Photography beast with Zeiss optics and advanced night mode capabilities.",
+    "price": 89999,
+    "images": ["https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b425",
+    "name": "Motorola Edge 40 Pro",
+    "description": "Curved display phone with stock Android and excellent battery life.",
+    "price": 44999,
+    "images": ["https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b426",
+    "name": "Nothing Phone (2)",
+    "description": "Unique transparent design with Glyph interface and balanced performance.",
+    "price": 44999,
+    "images": ["https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Phones",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b401",
+    "name": "The Trial - Franz Kafka (Paperback)",
+    "description": "Classic existential novel exploring themes of guilt, bureaucracy, and alienation.",
+    "price": 399,
+    "images": ["https://images.pexels.com/photos/1130980/pexels-photo-1130980.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b402",
+    "name": "Metamorphosis - Franz Kafka (Collector's Ed)",
+    "description": "Kafka's masterpiece about radical transformation and existential isolation. High-quality cover.",
+    "price": 349,
+    "images": ["https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b403",
+    "name": "The Castle - Franz Kafka (Hardcover)",
+    "description": "A mysterious and unfinished story depicting a protagonist's frustrating struggle against unseen forces.",
+    "price": 499,
+    "images": ["https://images.pexels.com/photos/1301585/pexels-photo-1301585.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b404",
+    "name": "The Power of Habit (Business Edition)",
+    "description": "Charles Duhigg's essential guide to understanding the science of habit formation and change.",
+    "price": 499,
+    "images": ["https://images.pexels.com/photos/256450/pexels-photo-256450.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b405",
+    "name": "Atomic Habits - James Clear",
+    "description": "Best-selling guide to self-improvement by building small, incremental habits.",
+    "price": 699,
+    "images": ["https://images.pexels.com/photos/1925536/pexels-photo-1925536.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b406",
+    "name": "The Subtle Art of Not Giving a F*ck (Revised)",
+    "description": "Mark Manson's refreshingly honest self-help book for living a better life.",
+    "price": 599,
+    "images": ["https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b407",
+    "name": "Think Like a Monk - Jay Shetty",
+    "description": "Jay Shetty's practical guide to finding purpose, peace, and clarity by adopting a monk mindset.",
+    "price": 649,
+    "images": ["https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b408",
+    "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+    "description": "Japanese concept of finding your 'reason for being' for a life of fulfillment.",
+    "price": 499,
+    "images": ["https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Books",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b427",
+    "name": "Scandinavian Modern Coffee Table",
+    "description": "Minimalist wooden coffee table with clean lines. Perfect for modern living rooms.",
+    "price": 12999,
+    "images": ["https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b428",
+    "name": "Premium Memory Foam Mattress (Queen)",
+    "description": "Luxurious memory foam mattress for ultimate comfort and spine support.",
+    "price": 24999,
+    "images": ["https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 5
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b429",
+    "name": "LED Smart Table Lamp",
+    "description": "Voice-controlled smart lamp with adjustable brightness and color temperature.",
+    "price": 2499,
+    "images": ["https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b430",
+    "name": "Bohemian Cotton Area Rug (5x7 ft)",
+    "description": "Handwoven area rug with geometric patterns. Adds warmth to any room.",
+    "price": 5999,
+    "images": ["https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b431",
+    "name": "Ceramic Dinner Set (24 pieces)",
+    "description": "Elegant white ceramic dinner set for 6 people. Dishwasher safe.",
+    "price": 3999,
+    "images": ["https://images.pexels.com/photos/1586942/pexels-photo-1586942.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b432",
+    "name": "Wall-Mounted Floating Shelves (Set of 3)",
+    "description": "Space-saving floating shelves in rustic wood finish for storage and display.",
+    "price": 2799,
+    "images": ["https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b433",
+    "name": "Velvet Throw Cushion Covers (Pack of 4)",
+    "description": "Soft velvet cushion covers in assorted colors. Zipper design for easy washing.",
+    "price": 1299,
+    "images": ["https://images.pexels.com/photos/1909791/pexels-photo-1909791.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 4
+  },
+  {
+    "_id": "60c72b2f9f1b2c0015b6b434",
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "description": "Ultrasonic diffuser with 7 LED color options. Creates a calming ambiance.",
+    "price": 1899,
+    "images": ["https://images.pexels.com/photos/4202325/pexels-photo-4202325.jpeg?auto=compress&cs=tinysrgb&w=600"],
+    "inStock": true,
+    "category": "Home",
+    "rating": 5
+  }
+]
