@@ -10,14 +10,22 @@ const authRoutes = require("./routes/auth.routes");
 const app = express();
 
 app.use(express.json());
-app.use(cors());
+
+app.use(cors({
+  origin: [
+    'http://localhost:3000',
+    'https://your-vercel-app-name.vercel.app', 
+    'http://localhost:5000' 
+  ],
+  credentials: true
+}));
 
 mongoose
   .connect(process.env.MONGO_URI)
   .then(() => console.log("DB Connected ✅"))
   .catch((err) => console.error("DB connection error:", err));
 
-// Rules ke mutabik API routes ko update kiya gaya hai
+
 app.use("/api/product_details", productRoutes);
 app.use("/api/category_details", categoryRoutes);
 app.use("/api/auth", authRoutes);
